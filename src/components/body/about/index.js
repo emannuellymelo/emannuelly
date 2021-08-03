@@ -13,7 +13,7 @@ function About() {
                 </div>
                 <div className="about-photo">
                 <img 
-                src={require("../../../assets/coding.png").default} className="picture"/>
+                src={require("../../../assets/coding.png").default} alt="girl-coding" className="picture"/>
                 </div>
             </div>
             <SocialContact/>
